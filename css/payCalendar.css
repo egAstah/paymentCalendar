@@ -1,0 +1,72 @@
+.billPaidClient {
+    color: #fff !important;
+    padding: 4px;
+    font-weight: bold;
+    text-decoration: none;
+    background: #158015;
+}
+
+.billPaidCarrier {
+    color: #fff !important;
+    padding: 4px;
+    font-weight: bold;
+    text-decoration: none;
+    background: #C81D1D;
+}
+
+.main-ui-filter-search {
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+#PayCalendarCompany .main-grid-row-body[data-id="left"] .main-grid-cell-left {
+    background: #96d0f6 !important;;
+}
+
+#PayCalendarCompany .main-grid-row-body[data-id="plus"] .main-grid-cell-left {
+    background: #c4f8cf !important;;
+}
+
+#PayCalendarCompany .main-grid-row-body[data-id="minus"] .main-grid-cell-left {
+    background: #fdd5d5 !important;
+}
+
+#PayCalendarOrganization1 .main-grid-row-body[data-id="left"] .main-grid-cell-left {
+    background: #96d0f6 !important;;
+}
+
+#PayCalendarOrganization1 .main-grid-row-body[data-id="plus"] .main-grid-cell-left {
+    background: #c4f8cf !important;;
+}
+
+#PayCalendarOrganization1 .main-grid-row-body[data-id="minus"] .main-grid-cell-left {
+    background: #fdd5d5 !important;
+}
+
+#PayCalendarOrganization2 .main-grid-row-body[data-id="left"] .main-grid-cell-left {
+    background: #96d0f6 !important;;
+}
+
+#PayCalendarOrganization2 .main-grid-row-body[data-id="plus"] .main-grid-cell-left {
+    background: #c4f8cf !important;;
+}
+
+#PayCalendarOrganization2 .main-grid-row-body[data-id="minus"] .main-grid-cell-left {
+    background: #fdd5d5 !important;
+}
+
+.main-grid-cell-left {
+    border-right: 1px solid #eef2f4;
+}
+
+.main-grid-cell-inner {
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.accordion-button:focus{
+    box-shadow: none;
+}
